@@ -1,0 +1,28 @@
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+
+# IntelliJ
+/out/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
