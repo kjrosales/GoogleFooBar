@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TheCakeIsNotALieTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-02-08T02:59:04" hostname="Bobfromtheparty" time="0.002">
+  <properties/>
+  <testcase name="answer" classname="TheCakeIsNotALieTest" time="0.001"/>
+  <testcase name="answer2" classname="TheCakeIsNotALieTest" time="0.0"/>
+  <testcase name="answer3" classname="TheCakeIsNotALieTest" time="0.0"/>
+  <testcase name="answer4" classname="TheCakeIsNotALieTest" time="0.0"/>
+  <testcase name="answer5" classname="TheCakeIsNotALieTest" time="0.0"/>
+  <testcase name="answer6" classname="TheCakeIsNotALieTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
